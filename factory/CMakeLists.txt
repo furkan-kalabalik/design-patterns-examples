@@ -1,0 +1,1 @@
+add_executable(factory factory_test.cpp Dialog.cpp HTMLButton.cpp WindowsButton.cpp HTMLDialog.cpp WindowsDialog.cpp)
