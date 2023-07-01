@@ -6,6 +6,7 @@ enable_testing()
 
 add_subdirectory(factory)
 add_subdirectory(abstract_factory)
+add_subdirectory(builder)
 
 set(CPACK_PROJECT_NAME ${PROJECT_NAME})
 set(CPACK_PROJECT_VERSION ${PROJECT_VERSION})
