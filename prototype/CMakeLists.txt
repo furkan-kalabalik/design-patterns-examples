@@ -1,0 +1,1 @@
+add_executable(test_prototype test_prototype.cpp Shape.cpp Rectangle.cpp Circle.cpp)
