@@ -8,6 +8,7 @@ add_subdirectory(factory)
 add_subdirectory(abstract_factory)
 add_subdirectory(builder)
 add_subdirectory(prototype)
+add_subdirectory(singleton)
 
 set(CPACK_PROJECT_NAME ${PROJECT_NAME})
 set(CPACK_PROJECT_VERSION ${PROJECT_VERSION})
